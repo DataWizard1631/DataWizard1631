@@ -1,5 +1,5 @@
 
-# Hola! I am Deep Patel! <img src="https://komarev.com/ghpvc/?username=DataWizard1631&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# Annyeonghaseyo! I am Deep Patel! <img src="https://komarev.com/ghpvc/?username=DataWizard1631&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <div style="display:flex;"> 
 <div align="center" height="200px" style="margin:0px;padding:0px;object:fit">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DataWizard1631&show_icons=true&theme=radical&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
