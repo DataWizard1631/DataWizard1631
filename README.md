@@ -1,4 +1,3 @@
-
 # Annyeonghaseyo! I am Deep Patel! <img src="https://komarev.com/ghpvc/?username=DataWizard1631&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 <div style="display:flex;"> 
 <div align="center" height="200px" style="margin:0px;padding:0px;object:fit">
