@@ -6,7 +6,7 @@
 <!-- </div>
  <div style="margin:0px;padding:0px">  -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DataWizard1631&show_icons=true&theme=radical&layout=compact&locale=en&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img width="48%" height="300px" src="https://codeforces-readme-stats.vercel.app/api/card?username=Deep.DTWiz31&theme=dark&hide_border=true" alt="Codeforces Stats" />
+  <img width="48%" height="250px" src="https://codeforces-readme-stats.vercel.app/api/card?username=Deep.DTWiz31&theme=dark&hide_border=true" alt="Codeforces Stats" />
 </div>
 </div>
 
